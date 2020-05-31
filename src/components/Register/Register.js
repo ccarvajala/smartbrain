@@ -30,7 +30,7 @@ class Register extends React.Component
 
     onSubmitSignIn = () =>
     {
-        fetch("http://localhost:3000/register", 
+        fetch("https://enigmatic-earth-02764.herokuapp.com/register", 
         {
             method: "post",
             headers: {"Content-type": "application/json"},

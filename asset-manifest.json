@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/ccarvajala/smartbrain/static/css/main.4701f083.chunk.css",
-    "main.js": "/ccarvajala/smartbrain/static/js/main.be589172.chunk.js",
-    "main.js.map": "/ccarvajala/smartbrain/static/js/main.be589172.chunk.js.map",
-    "runtime-main.js": "/ccarvajala/smartbrain/static/js/runtime-main.31f0508c.js",
-    "runtime-main.js.map": "/ccarvajala/smartbrain/static/js/runtime-main.31f0508c.js.map",
-    "static/css/2.3c03f26f.chunk.css": "/ccarvajala/smartbrain/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.7c45e7f8.chunk.js": "/ccarvajala/smartbrain/static/js/2.7c45e7f8.chunk.js",
-    "static/js/2.7c45e7f8.chunk.js.map": "/ccarvajala/smartbrain/static/js/2.7c45e7f8.chunk.js.map",
-    "index.html": "/ccarvajala/smartbrain/index.html",
-    "precache-manifest.da5764bca1335abbb9bf2db0a8a79a0c.js": "/ccarvajala/smartbrain/precache-manifest.da5764bca1335abbb9bf2db0a8a79a0c.js",
-    "service-worker.js": "/ccarvajala/smartbrain/service-worker.js",
-    "static/css/2.3c03f26f.chunk.css.map": "/ccarvajala/smartbrain/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.4701f083.chunk.css.map": "/ccarvajala/smartbrain/static/css/main.4701f083.chunk.css.map",
-    "static/js/2.7c45e7f8.chunk.js.LICENSE.txt": "/ccarvajala/smartbrain/static/js/2.7c45e7f8.chunk.js.LICENSE.txt"
+    "main.css": "/smartbrain/static/css/main.4701f083.chunk.css",
+    "main.js": "/smartbrain/static/js/main.719c50d2.chunk.js",
+    "main.js.map": "/smartbrain/static/js/main.719c50d2.chunk.js.map",
+    "runtime-main.js": "/smartbrain/static/js/runtime-main.07838e49.js",
+    "runtime-main.js.map": "/smartbrain/static/js/runtime-main.07838e49.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/smartbrain/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.7c45e7f8.chunk.js": "/smartbrain/static/js/2.7c45e7f8.chunk.js",
+    "static/js/2.7c45e7f8.chunk.js.map": "/smartbrain/static/js/2.7c45e7f8.chunk.js.map",
+    "index.html": "/smartbrain/index.html",
+    "precache-manifest.178163cba23d9ab936dbff25f8a6c0c8.js": "/smartbrain/precache-manifest.178163cba23d9ab936dbff25f8a6c0c8.js",
+    "service-worker.js": "/smartbrain/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/smartbrain/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.4701f083.chunk.css.map": "/smartbrain/static/css/main.4701f083.chunk.css.map",
+    "static/js/2.7c45e7f8.chunk.js.LICENSE.txt": "/smartbrain/static/js/2.7c45e7f8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.31f0508c.js",
+    "static/js/runtime-main.07838e49.js",
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.7c45e7f8.chunk.js",
     "static/css/main.4701f083.chunk.css",
-    "static/js/main.be589172.chunk.js"
+    "static/js/main.719c50d2.chunk.js"
   ]
 }
